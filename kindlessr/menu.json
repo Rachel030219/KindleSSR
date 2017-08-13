@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "name": "KindleSSR",
+      "items": [
+        {
+          "name": "Start ShadowsocksR", 
+          "action": "./bin/local.sh", 
+          "priority": 1, 
+          "internal": "status SSR local server started.",
+          "exitmenu": false,
+          "checked": true,
+          "status":false
+        }
+      ]
+    }
+  ]
+}
